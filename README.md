@@ -16,10 +16,10 @@ I skilled in Android/iOS App Development from scratch to upload using Native or 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
 ![Git](https://img.shields.io/badge/Git-%2300599C.svg?style=flat&logo=git&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-![Codemagic](https://img.shields.io/badge/Codemagic-5ACAFB?style=flat&logo=codemagic&logoColor=FF6200)
+![Codemagic](https://img.shields.io/badge/Codemagic-3182C3?style=flat&logo=codemagic&logoColor=FF6200&labelColor=white)
 ![Agora](https://img.shields.io/badge/Agora-%2300599C.svg?style=flat&logo=agora&logoColor=white)
 ![FFMPEG](https://img.shields.io/badge/FFMPEG-%2300599C.svg?style=flat&logo=ffmpeg&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-00A146?style=flat&logo=spring&logoColor=white)  <br><br>
+![Spring](https://img.shields.io/badge/Codemagic-5ACAFB?style=flat&logo=codemagic&logoColor=FF6200&labelColor=black)  <br><br>
 
 ### ✍️ Today Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)<br><br>
