@@ -19,7 +19,7 @@ I skilled in Android/iOS App Development from scratch to upload using Native or 
 ![Codemagic](https://img.shields.io/badge/Codemagic-3182C3?style=flat&logo=codemagic&logoColor=FF6200&labelColor=white)
 ![Agora](https://img.shields.io/badge/Agora-%2300599C.svg?style=flat&logo=agora&logoColor=white)
 ![FFMPEG](https://img.shields.io/badge/FFMPEG-%2300599C.svg?style=flat&logo=ffmpeg&logoColor=white)
-![Spring](https://img.shields.io/badge/Codemagic-5ACAFB?style=flat&logo=codemagic&logoColor=FF6200&labelColor=black)  <br><br>
+![Spring](https://img.shields.io/badge/Spring-00A146?style=flat-square&logo=spring&logoColor=00A146&labelColor=white)  <br><br>
 
 ### ✍️ Today Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)<br><br>
